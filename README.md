@@ -1,16 +1,68 @@
-## Hi there 👋
+## 👋 Olá, eu sou [Seu Nome]
 
-<!--
-**eufrasiotony/eufrasiotony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cientista de Dados com formação em **Economia**  
+📊 Especialista em **Crédito, Risco e Cobrança**  
+💼 Experiência em **consultoria analítica**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+Atuo na interseção entre **dados, economia e decisões de negócio**, com foco em soluções analíticas para o mercado financeiro. Tenho experiência no desenvolvimento de **modelos de crédito**, **scoring**, **análise de risco** e **performance de carteiras**, sempre buscando equilíbrio entre **robustez estatística** e **interpretação econômica**.
+
+Trabalho com soluções **end-to-end**, desde a exploração e tratamento dos dados até a modelagem, avaliação e entrega em **ambientes escaláveis em nuvem**.
+
+---
+
+### 🧰 Tech Stack
+**Linguagens**
+- 🐍 Python  
+- 🗄️ SQL  
+- 📈 SAS  
+
+**Big Data & Cloud**
+- ⚡ Apache Spark (PySpark)
+- 🔥 Databricks
+- ☁️ AWS (S3, EC2)
+
+**Bibliotecas**
+- Pandas · NumPy · Scikit-learn  
+- Matplotlib · Seaborn  
+
+**Ferramentas**
+- Git & GitHub  
+- Jupyter Notebook  
+
+---
+
+### 📊 Experiência em Crédito & Cobrança
+- Modelagem de **Score de Crédito**
+- Análise de **Inadimplência e Risco**
+- WOE & Regressão Logística
+- Métricas: **KS, AUC, Gini**
+- Definição de **cut-offs** e estratégias
+- Análise e segmentação de carteiras
+- Processamento de dados em **ambientes distribuídos**
+
+---
+
+### 📁 Projetos
+🔹 **Modelagem de Crédito**  
+Pipeline completo com geração de dados, WOE, regressão logística, avaliação de performance e scoragem.
+
+🔹 **Scoragem de Carteiras em Big Data**  
+Aplicação de modelos de crédito utilizando **Spark e Databricks**, com dados armazenados em **AWS**.
+
+👉 Confira os repositórios abaixo ⬇️
+
+---
+
+### 🎯 Objetivo
+Atuar com **Ciência de Dados aplicada a risco de crédito**, desenvolvendo soluções **escaláveis**, orientadas a dados e com impacto direto no negócio, especialmente em ambientes de **cloud e big data**.
+
+---
+
+### 📫 Vamos conversar?
+- 💼 LinkedIn: https://www.linkedin.com/in/tony-eufrasio-a4bb4a164/
+- ✉️ Email: eufrasiotony@gmail.com
+
+
