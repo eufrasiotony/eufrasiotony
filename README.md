@@ -22,7 +22,7 @@ Trabalho com soluções **end-to-end**, desde a exploração e tratamento dos da
 **Big Data & Cloud**
 - ⚡ Apache Spark (PySpark)
 - 🔥 Databricks
-- ☁️ AWS (S3, EC2)
+- ☁️ AWS 
 
 **Bibliotecas**
 - Pandas · NumPy · Scikit-learn  
@@ -50,7 +50,7 @@ Trabalho com soluções **end-to-end**, desde a exploração e tratamento dos da
 Pipeline completo com geração de dados, WOE, regressão logística, avaliação de performance e scoragem.
 
 🔹 **Scoragem de Carteiras em Big Data**  
-Aplicação de modelos de crédito utilizando **Spark e Databricks**, com dados armazenados em **AWS**.
+Aplicação de modelos de crédito utilizando **Python e SAS**.
 
 👉 Confira os repositórios abaixo ⬇️
 
