@@ -9,7 +9,7 @@
 ### 🚀 Sobre mim
 Atuo na interseção entre **dados, economia e decisões de negócio**, com foco em soluções analíticas para o mercado financeiro. Tenho experiência no desenvolvimento de **modelos de crédito**, **scoring**, **análise de risco** e **performance de carteiras**, sempre buscando equilíbrio entre **robustez estatística** e **interpretação econômica**.
 
-Trabalho com soluções **end-to-end**, desde a exploração e tratamento dos dados até a modelagem, avaliação e entrega em **ambientes escaláveis em nuvem**.
+Trabalho com soluções **end-to-end**, desde a exploração e tratamento dos dados até a modelagem.
 
 ---
 
