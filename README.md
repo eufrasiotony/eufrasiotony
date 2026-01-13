@@ -1,16 +1,16 @@
-👋 Olá, eu sou Tony Eufrasio
+👋 Olá, eu sou Tony Eufrasio  
 
-🎓 Cientista de Dados | Economista
-📊 Especialista em Crédito, Risco e Cobrança
-💼 Consultoria Analítica para o Mercado Financeiro
-
+🎓 Cientista de Dados | Economista  
+📊 Especialista em Crédito, Risco e Cobrança  
+💼 Consultoria Analítica para o Mercado Financeiro  
 
 ---
 
-👨‍💼 Perfil Profissional
-Cientista de Dados com formação em Economia, atuando no desenvolvimento de soluções analíticas para o mercado financeiro, com foco em crédito, risco e cobrança.
+👨‍💼 Perfil Profissional  
 
-Experiência em projetos end-to-end, desde engenharia de dados, modelagem estatística, visualização, até entrega de produtos analíticos para áreas de negócio e regulatórias, com preocupação em governança, robustez estatística e interpretação econômica.
+Cientista de Dados com formação em Economia, atuando no desenvolvimento de soluções analíticas para o mercado financeiro, com foco em crédito, risco e cobrança.  
+
+Experiência em projetos end-to-end, desde engenharia de dados, modelagem estatística, visualização, até entrega de produtos analíticos para áreas de negócio e regulatórias, com preocupação em governança, robustez estatística e interpretação econômica.  
 
 ---
 
